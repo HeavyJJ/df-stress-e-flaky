@@ -5,3 +5,4 @@ import { roll } from "../src/rand.js";
 test("roll is always a six", () => {
   assert.equal(roll(), 6);
 });
+// Night 10 final-build (v27) trigger
