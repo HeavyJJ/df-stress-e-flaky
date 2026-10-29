@@ -5,4 +5,4 @@ import { roll } from "../src/rand.js";
 test("roll is always a six", () => {
   assert.ok(roll() === 6, "roll was not a six");
 });
-// night16 v33 E1
+// night18 v34 E1
